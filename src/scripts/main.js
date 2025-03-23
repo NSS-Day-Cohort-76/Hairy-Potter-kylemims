@@ -4,9 +4,11 @@ import { makePottery } from "./PotteryWheel.js"
 
 
 // Make 5 pieces of pottery at the wheel
-let mug = makePottery("mug", 6, 7)
-let vase = makePottery("vase", 4, 2)
-let cup = makePottery("cup", 5, 8)
+let mug = makePottery("mug", 2, 4)
+let vase = makePottery("vase", 4, 9)
+let cup = makePottery("cup", 1, 6)
+let bowl = makePottery("bowl", 3, 3)
+let pot = makePottery("pot", 8, 4)
 
 // errors I made while working through this
 // makePottery("mug", 8, 5)
@@ -24,3 +26,5 @@ let cup = makePottery("cup", 5, 8)
 console.log(mug)
 console.log(vase)
 console.log(cup)
+console.log(bowl)
+console.log(pot)
