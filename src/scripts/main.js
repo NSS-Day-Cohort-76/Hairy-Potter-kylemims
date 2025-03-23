@@ -1,6 +1,6 @@
 // Imports go first
 import { makePottery } from "./PotteryWheel.js"
-
+import { firePottery } from "./Kiln.js"
 
 
 // Make 5 pieces of pottery at the wheel
@@ -10,6 +10,8 @@ let cup = makePottery("cup", 1, 6)
 let bowl = makePottery("bowl", 3, 3)
 let pot = makePottery("pot", 8, 4)
 
+firePottery(mug, 2000)
+firePottery(vase, 2800)
 // errors I made while working through this
 // makePottery("mug", 8, 5)
 // makePottery("vase", 4, 8)
@@ -22,9 +24,5 @@ let pot = makePottery("pot", 8, 4)
 
 
 // Invoke the component function that renders the HTML list
-
 console.log(mug)
 console.log(vase)
-console.log(cup)
-console.log(bowl)
-console.log(pot)
