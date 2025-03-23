@@ -1,0 +1,297 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="706px" height="1604px" viewBox="-0.5 -0.5 706 1604" content="&lt;mxfile&gt;&lt;diagram id=&quot;x3diZI8JuOI74W4ubP8P&quot; name=&quot;Page-1&quot;&gt;zVlbb9s6DP41AdaHBLEd5/LYJt0FpwMK5GHPis3YWmXLk5Xbfv2hZPluZxmaJQWGxqZoivxEfaS0gbOMjl8EScLv3Ac2sMf+ceCsBrY9syf4VwlOmcC23EUmCQT1M5lVCtb0Nxjh2Eh31Ie0pig5Z5ImdaHH4xg8WZMRIfihrrblrD5rQgJoCdYeYW3pD+rLMJPO3XEp/wo0CPOZrbEZiUiubARpSHx+qIic54GzFJzL7Ck6LoEp8HJcsu8+94wWjgmI5SUf5H7sCduZ4Ixj8pRHCz4Gb15jHuPPUygjhm8WPrZnNE6kfCc8Y8IYlUQEkGtNM5myXvnOuPkFeARSnFBBACOS7uvQE7OCQaFXBokPJs6emDtCnjJ06ympBT79tVPL8CThKIeE0SAeOI+owWArdeC5Aj4F5lebSRMSd1raEO8tEHwX+0OPMy4ye1KQOM0BPGN2kwteuZQgTj9CADb6mRbjovkFIrHpkGX+tcRJU9YNR7+DXTY4+0sjjL5vEXzYUsxRTBG9xoKSDQNNEPgnJHv9HEKRAPaYbwtRImhEdNa9wUkzg1ApSrxQDVLwCv0kWwN8+hRiMmJ2xZIS1jRrPVTAUaFdN9hVEWzsK0ePCRfSxL7dxZ6kXGViTCJQPg6myEBvYPIH3846h0K1enWhT/f/eJMcQiphiMOKPB71okCfpYHtLPpzu4KAnqEa/KcHrT9WrKH+ldhVETq3szQSrQ1z0a46p9QgX80WoJhrnGOzzqBZHbC4XsjFexC4QGdpNh91sy9MaZ7MzfuhrHNOXobDao1zxu9nZqfFzGYhlkQSxgNNdncGaJrXcoPQMC+hFYQsuwOh6RUAmrQA+o+y+CPCYt0SFrcvb15oKj8iOu4NwZm2wPlOaDxartd3h2UyrcOyuCEss94uMHSuU+E27+gBsfOI5TDVJx81btnJ8exkSr9zvqahSY8hnRRlM4nwZSYv6igVZP+oT2i3IGWnQuM9fysbulrlrvY/WXeUCL7Hc2OhLuDXjgrw8yxIs4xSR8RgF+FKVMHo7t0ySSq5KM3yzU915lSvRP3giSfVs8mdiPVs2CryVoO6zAwod3epsoOH15QzGGHdw2bFNLB7CofWTH/bwzWblzuzgD1rVtRJmwfsqdvRdEyuQATzFhF8w/CPIx3kvbGZ3I8g8y6vWTjOllMVttndKw/DBqEoiDK2zLgOtZ0t8Re+qzphwOMWoI6CkMaBQbW4E1HGAkbS1AygLnn2qcz1pMDdXzFMYGI5ttqaZAPsladU7/+KJwp46hH20lCIqO+rYAqFRxNDMRByQX8jIZJ8cRWRrZA+PGOCSdGTEUR45gprnJ17VKwvmve0JU+ZxWOcyMPke0UJ2sfrZZLjzkb13n646Nhni45sOtfam/leOdX1x0w2bFzT8O02BdnKvsLLyxKy3ckYth95AoiEkYSP0e5ZVn3bTsY33Lcd91vVcy+OPFwDoBYaHZj1AtRk/LlzS4Dax8z+g36lUKqCrHK8vPoZuH+4EOgQ3eDeYzBTIyRS6xZv0qTak/7xJuM9mZEzv2nqOvjdvU7+NMricDHvyB/3OvmDr+V9fEZb5f9qOM//Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <path d="M 155 1465 L 155 1446.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 155 1441.12 L 158.5 1448.12 L 155 1446.37 L 151.5 1448.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="0" y="1465" width="310" height="130" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 308px; height: 1px; padding-top: 1530px; margin-left: 1px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <p style="text-align: left;">
+                                        <span style="background-color: transparent;">
+                                            <b>
+                                                PotteryWheel.js
+                                                <br/>
+                                            </b>
+                                        </span>
+                                    </p>
+                                    <p style=""></p>
+                                    <ol style="">
+                                        <li style="text-align: left;">
+                                            define a variable to have the value of the primary key for each piece of pottery (has intial value of 1)
+                                        </li>
+                                        <li style="text-align: left;">
+                                            Define and export a function names `makePottery`
+                                        </li>
+                                    </ol>
+                                    <div style="text-align: left;">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        function = makePottery(); // export makePottery
+                                        <br/>
+                                    </div>
+                                    <p></p>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="155" y="1534" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        PotteryWheel.js...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="585" y="960" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 990px; margin-left: 586px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    PotteryCatalog.js
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="645" y="994" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        PotteryCatalog.js
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="585" y="1100" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1130px; margin-left: 586px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Kiln.js
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="645" y="1134" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Kiln.js
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="585" y="1030" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1060px; margin-left: 586px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    PotteryList.js
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="645" y="1064" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        PotteryList.js
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="445" y="1070" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1100px; margin-left: 446px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Main.CSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="505" y="1104" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Main.CSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="255" y="740" width="265" height="140" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 263px; height: 1px; padding-top: 810px; margin-left: 256px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <h3 style="text-align: left;">
+                                        <b style="background-color: transparent; font-size: 12px;">
+                                            <font style="font-size: 14px;">
+                                                Main.js
+                                            </font>
+                                        </b>
+                                    </h3>
+                                    <div style="text-align: left;">
+                                        <ol>
+                                            <li>
+                                                invoke the makePottery function and provide the required values as arguments
+                                            </li>
+                                            <li>
+                                                store the object that gets returned into a variable, then use console.log() to view the object
+                                            </li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="388" y="814" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Main.js...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25" y="1070" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1100px; margin-left: 26px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Index.html
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="85" y="1104" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Index.html
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <rect x="342.5" y="40" width="90" height="30" fill="#fad9d5" stroke="#ae4132" pointer-events="all" style="fill: light-dark(rgb(250, 217, 213), rgb(68, 39, 36)); stroke: light-dark(rgb(174, 65, 50), rgb(236, 143, 130));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 87px; height: 1px; padding-top: 55px; margin-left: 344px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Main.js
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="387" y="59" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Main.js
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="95" y="1380" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1410px; margin-left: 96px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Pottery.create.test.js
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="155" y="1414" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        Pottery.create.test....
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="55" y="150" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 180px; margin-left: 56px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    makePottery( )
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="115" y="184" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        makePottery( )
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25" y="0" width="150" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 148px; height: 1px; padding-top: 30px; margin-left: 27px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <br/>
+                                    <div>
+                                        const pottery [
+                                    </div>
+                                    <div>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        {
+                                        <br/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="27" y="34" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        const pottery [...
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
