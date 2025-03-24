@@ -120,12 +120,25 @@ In the `main.js` module, invoke the `PotteryList` component function. Take its r
 > 🧨 Before you click the "Assessment Complete" button on the Learning Platform, add your answers below for each question and make a commit. It is your option to request a face-to-face meeting with a coach for a vocabulary review.
 
 1. Explain how you got the HTML, with the correct data, displayed in the browser?
-   > Your answer here
+   
+   > I began by adding HTML Semantic Elements to the inex.HTML file to ensure easy readability for myself and the browser, and targeting specific elements with CSS. Next, I copied and pasted the template to provide HTML string representations, and replaced the (strings?? - "place holders") with `${template literals}`. I input the improper scope at first `${mug.height}` and `${mug.shape}`, but eventually remembered that we were iterating each item (**I need help with the verbiage) and adjust the properties scope accordingly: ex. `${pottery.weight}` & `${pottery.height}`
+
+
 2. In the **PotteryList** module, when you iterate your pottery, you need to show the evidence of what the **weight** property's value is for the 2nd piece of pottery. Use [Loom](https://www.loom.com/) to record your browser window with the developer tools open and show those values.
-   > Paste your video's public URL here
+
+   > https://www.loom.com/share/62ec1fe86e3b47fba7b9ffe408a45566?sid=c98f2707-01e3-49b6-abd1-a6b038db8e73
+
 3. The **PotteryWheel** module has a single function named `makePottery`. Why doesn't that module have all of the other code in it?
-   > Your answer here
+
+   > My best guess is to keep the files as easy to read as possible (modularize?). I understand that we created this to have a function that we can pass values into and create different pottery objects, but I'm unsure of how this function can be affected if it were written within one of the other modules.
+
 4. The pottery shop has learned that there is a set of customers that are willing to buy cracked pottery at a discounted price of $2.50. That means that the cracked pottery should now be displayed in the catalog. Explain the changes that this new business strategy would cause to your algorithm.
-   > Your answer here
+   > This change would happen within the PotteryCatalog.js module and require us to adjust the `if (!pottery.cracked) condition that means, "if the pottery is not cracked". I am not entirely confident about how I would approach this, but I would start by adding the following code to the block, ensuring it gets pushed into the potteryToSell array:
+
+                  if (!pottery.cracked === false) {
+                        pottery.price = 2.50
+                  }
+
 5. In the **Kiln** module, you have a `firePottery()` function. You need to demonstrate how to use the debugger to verify the values of the parameters for that function when your code runs. Use [Loom](https://www.loom.com/) to record your browser window with the developer tools open and show those values.
-   > Paste your video's public URL here
+
+   > (https://www.loom.com/share/4e49b966c401461bbdf8070a09bc158e?sid=97b2d725-4a01-4170-b021-0f8c469fc9eb)

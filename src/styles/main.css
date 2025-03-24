@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6 {
 
   button {
 		background-color: #557b76;
-		color: #000000; 
+		color: hsl(0, 0%, 100%); 
 		font-size: 15px;
 		padding: 10px 15px;
 		margin-top: 10px;
