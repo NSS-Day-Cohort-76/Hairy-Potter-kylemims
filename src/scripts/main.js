@@ -6,10 +6,13 @@ import { potteryList } from "./PotteryList.js"
 
 // Make 5 pieces of pottery at the wheel
 let mug = makePottery("mug", 2, 4)
+mug.image = "https://ik.imagekit.io/kylemims/hairy-potter/hairy-potter-mug.jpg?updatedAt=1742818590709"
 let vase = makePottery("vase", 4, 9)
 let cup = makePottery("cup", 1, 6)
+cup.image = "https://ik.imagekit.io/kylemims/hairy-potter/hairy-potter-cup.jpg?updatedAt=1742818590712"
 let bowl = makePottery("bowl", 3, 3)
 let pot = makePottery("pot", 8, 4)
+pot.image = "https://ik.imagekit.io/kylemims/hairy-potter/hairy-potter-pot.jpg?updatedAt=1742818590147"
 
 firePottery(mug, 2000)
 firePottery(vase, 2800)
