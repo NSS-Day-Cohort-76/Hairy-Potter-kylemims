@@ -44,10 +44,12 @@ h1,h2,h3,h4,h5,h6 {
   }
 
   button {
-		background-color: black;
-		color: rgb(162, 227, 202); 
+		background-color: #557b76;
+		color: #000000; 
 		font-size: 15px;
-		padding: 10px;
+		padding: 10px 15px;
+		margin-top: 10px;
+		border-radius: 10%;
 		display: inline-block;
 	}
 		
